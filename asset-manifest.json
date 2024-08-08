@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RealEstate/static/css/main.c828e118.css",
+    "main.js": "/RealEstate/static/js/main.eb89ceb0.js",
+    "static/media/mesh-gradient (1).png": "/RealEstate/static/media/mesh-gradient (1).278013581be3a1fffa3c.png",
+    "index.html": "/RealEstate/index.html",
+    "main.c828e118.css.map": "/RealEstate/static/css/main.c828e118.css.map",
+    "main.eb89ceb0.js.map": "/RealEstate/static/js/main.eb89ceb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c828e118.css",
+    "static/js/main.eb89ceb0.js"
+  ]
+}
